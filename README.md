@@ -1,7 +1,12 @@
 ### Hi there 👋, I'm Tirelo Kgotatso Maile
+
 #### I am a Teacher and a Web Developer
 
-Skills:  JavaScript / HTML / CSS/ Tailwind / Flexbox / Grid
+#### Skills: 
+. 💻JavaScript / HTML / CSS
+. 🍃Tailwind 
+. 💪🏽Flexbox 
+. 🧱Grid
 
 - 🌱 I’m currently learning Software Development at CodeSpace Academy 
 
