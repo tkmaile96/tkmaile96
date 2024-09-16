@@ -33,9 +33,12 @@ A Passionate Teacher and a Web Developer
 
 ## 📊 Github Status
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=tkmaile96&show_icons=true"><p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkmaile96)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkmaile96&layout=compact"><p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tkmaile96&show_icons=true&count_private=true)  
+
+
+###
 
 
 
