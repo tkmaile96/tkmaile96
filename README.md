@@ -3,9 +3,9 @@
 A Passionate Teacher and a Web Developer
 
 ## 💫 Liitle Bit More About Me
-<p>🔭 I'm currently working on Job Board App</p>
-<p>🌱 I'm currently learning TypeScript, Python</p>
-<p>📫 How to reach me? tkmaile96@gmail.com</p>
+- 🔭 I’m currently working on [Job Board App](https://job-board-api-84s9.onrender.com/) 
+- 🌱 I’m currently learning **TypeScript** and **Python** 
+- 📫 How to reach me: tkmaile96@gmail.com
 
 ## 💻 Skills
 <p>
