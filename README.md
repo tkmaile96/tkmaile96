@@ -1,51 +1,26 @@
-<p align="left">Hello World!! My Name is Tirelo</p>
+### Hi there 👋, my name is Tirelo
+#### A Passionate Teacher and a Web Developer
+![A Passionate Teacher and a Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-###
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
-</div>
+Skills: Tail / REACT / JS / HTML / CSS
 
-###
+- 🔭 I’m currently working on [Job Board App](https://job-board-api-84s9.onrender.com/) 
+- 🌱 I’m currently learning **TypeScript** and **Python** 
+- 📫 How to reach me: tkmaile96@gmail.com 
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tkmaile96&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tkmaile96&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
-###
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tkmaile96)  
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=tkmaile96)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div align="left">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkmaile96)](https://github.com/anuraghazra/github-readme-stats)
 
-###
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tkmaile96&show_icons=true)  
 
-<div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=tkmaile96&theme=dark" alt="Layout with last medium posts"  />
-</div>
 
-<img src="https://raw.githubusercontent.com/tkmaile96/tkmaile96/output/snake.svg" alt="Snake animation" />
+
 
 
 
