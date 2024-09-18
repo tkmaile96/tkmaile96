@@ -7,6 +7,7 @@ A Passionate Teacher and a Web Developer
 - 🌱 I’m currently learning **TypeScript** and **Python** 
 - 📫 How to reach me: tkmaile96@gmail.com
 
+
 ## 💻 Skills
 <p>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
